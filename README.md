@@ -38,31 +38,6 @@ Passionate about building impactful solutions by combining **AI, IoT, and softwa
 
 ---
 
-## 💼 Experience  
-
-<details>
-<summary>👨‍💻 <b>Technical Intern | WipWare</b> (May 2025 – Aug 2025)</summary>
-  
-  - Trained and deployed an object detection model using TensorFlow & OpenCV for material analysis.
-  - Designed dataset pipelines: annotation, preprocessing, and augmentation. 
-  - Migrated and configured CRM, creating an analytics pipeline from scratch.
-    
-</details>  
-
-<details>
-<summary>🔧 <b>Technical Specialist | WipWare</b> (Aug 2023 – Oct 2024)</summary>
-  
-- Built, certified, and maintained machine vision IoT products.
-- Configured IoT systems to client specifications, ensuring QA compliance.
-
-</details>  
-
-<details>
-<summary>✈️ <b>Avionics Technician | Voyageur Aviation</b> (May 2023 – Aug 2023)</summary>
-  
-- Tested and repaired aircraft electrical systems, wiring, and avionics devices.
-  
-</details>  
 
 
 <!---
